@@ -1,9 +1,9 @@
 # ADSS PGR conference 2018
 This was my presentation for the Arts, Design and Social Sciences Postgraduate Research conference in 2018 at Northumbria University, where I spoke about money. 
 
-[These are the slides](https://belenbarrospena.github.io/phd-ADSS-PGR-2018), and you can read the talk script below.
+[These are the slides](https://belenbarrospena.github.io/phd-ADSS-PGR-2018), and you can read the presentation script below.
 
-##Script
+## Script
 
 Hello all. I am Belén, and my PhD, which is supervised by Professors Vines and Holmquist, is about three things: participatory design, older adults, and digital financial services. 
 
@@ -39,16 +39,16 @@ Cheques and cash are also very good at giving us feedback, and that helps us kee
 
 Cheques are great at the feedback thing too. Chequebooks are made of cheques and stubs. So for each cheque I give out, the chequebook keeps a little record, and it’s there, in the chequebook itself, and so it’s very easy for me to know how much I’ve spent and when. Compare that with having to log into online banking in order to look at my transactions. You might think that looking at your bank statement online is easy, but it involves using a website to register, remember a whole bunch of passwords and pass phrases, and sometimes learning how to use a one-time pass generator. If we want to see our statements on our phones instead, that requires to already have online banking, download and install a mobile application, setting it up, identifying myself to it every time, and then look at the statements in a tiny screen. You might have grown accustomed to it and as a result you think it’s easy, but I must break it out to you: looking at your transactions online is NOT easy at all.
 
-Another good thing about cheques is that they take ages to go through. You might thing of that as a bad thing, but that delay also gives the person issuing the cheque a chance to get cold feet, to change their mind, and cancel the transaction. Have you ever heard people complaining about how Amazon’s one-click makes it too easy to spend money? That’s because they have taken away all friction, without realising that friction, in finance and many other things, has a role to play. And in fact, this idea of bringing friction back is all the rage amongst banks right now, particularly in the context of financial scams.
+Another good thing about cheques is that they take ages to go through. You might thing of that as a bad thing, but that delay also gives the person issuing the cheque a chance to get cold feet, to change their mind, and cancel the transaction. Have you ever heard people complaining about how Amazon’s one-click makes it too easy to spend money? That’s because they have taken away all friction, without realising that friction, like the delay in cheques, has a role to play. And in fact, this idea of bringing friction back is all the rage amongst banks right now, particularly in the context of financial scams.
 
 And finally, and this one is very important to me, cash is the only form of payment that allows us to remain anonymous. That’s because it is the only form of payment that does not split a transaction between its value and its information: it is the only non-ledger form of payment we currently have. And only because of that, I believe it is worth preserving. 
 
-So with our new fancy money forms we have lost a whole bunch of things. The ability to exchange at par, the ability to manage our risk with trusting others with our money, the ability to easily track our finances, the ability to change our minds about a payment, and the ability to remain anonymous.
+So with our new fancy money forms we have lost a whole bunch of things. The ability to exchange at par, the ability to manage our risk when trusting others with our money, the ability to easily track our finances, the ability to change our minds about a payment, and the ability to remain anonymous.
 
-Can we recover all those things? Can we build all that stuff back into our new forms of money?
+Can we recover all those things? Can we bring all that stuff back into our new forms of money?
 
-Well, in the case of anonymity, it turns out that we can. This is Taler, a form of digital cash. Like physical cash, Taler does not split a transaction’s information from its value. When I pay you £10 with Taler, you get the value straight away. There is a twist, though. The ability for the payee to remain anonymous is what makes tax evasion possible. So Taler removes that. Transactions guarantee the anonymity of the payer, but not of the person receiving the money. The payee must declare her payment income, making tax evasion hard. So Taler is cash, only better!
+Well, in the case of anonymity, it turns out that we can. This is Taler, a form of digital cash. Like physical cash, Taler does not split a transaction’s information from its value. When I pay you £10 with Taler, you get the value straight away. There is a twist, though. With cash, the ability for the payee to remain anonymous is what makes tax evasion possible. So Taler removes that. Transactions guarantee the anonymity of the payer, but not of the person receiving the money. The payee must declare her payment income, making tax evasion hard. So Taler is cash, only better!
 
 Taler proves that it is possible to build some of the “affordances” of physical money forms, in this case anonymity, into our digital money forms. Not only that: Taler proves that digital money forms give us the opportunity to improve our physical money forms. 
 
-If we can bring back anonymity, can we bring up all the other things? Well, that’s what my PhD is about.
+If we can bring back anonymity, can we bring back all the other things? Well, that’s what my PhD is about.
