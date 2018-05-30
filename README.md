@@ -47,7 +47,7 @@ Can we recover all those things? Can we bring all that stuff back into our new f
 
 Well, in the case of anonymity, it turns out that we can. This is Taler, a form of digital cash. Like physical cash, Taler does not split a transaction’s information from its value. When I pay you £10 with Taler, you get the value straight away. There is a twist, though. With cash, the ability for the payee to remain anonymous is what makes tax evasion possible. So Taler removes that. Transactions guarantee the anonymity of the payer, but not of the person receiving the money. The payee must declare her payment income, making tax evasion hard. So Taler is cash, only better!
 
-Taler proves that it is possible to build some of the “affordances” of physical money forms, in this case anonymity, into our digital money forms. Not only that: Taler proves that digital money forms give us the opportunity to improve our physical money forms.
+Taler proves that it is possible to build some of the design strengths of physical money forms, in this case anonymity, into our digital money forms. Not only that: Taler proves that digital money forms give us the opportunity to improve our physical money forms.
 
 If we can bring back anonymity, can we bring back all the other things? Well, that’s what my PhD is about.
 
