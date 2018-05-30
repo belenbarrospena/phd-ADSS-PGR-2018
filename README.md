@@ -52,3 +52,23 @@ Well, in the case of anonymity, it turns out that we can. This is Taler, a form 
 Taler proves that it is possible to build some of the “affordances” of physical money forms, in this case anonymity, into our digital money forms. Not only that: Taler proves that digital money forms give us the opportunity to improve our physical money forms. 
 
 If we can bring back anonymity, can we bring back all the other things? Well, that’s what my PhD is about.
+
+## References
+
+Dunphy, P., Monk, A., Vines, J., Blythe, M., Olivier, P., 2013. Designing for Spontaneous and Secure Delegation in Digital Payments. Interacting with Computers 26, 417–432. https://doi.org/10.1093/iwc/iwt038
+
+Kaye, J., McCuistion, M., Gulotta, R., Shamma, D.A., 2014. Money Talks: Tracking Personal Finances, in: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. Presented at the CHI 2014, ACM New York, NY, USA, Toronto, Ontario, Canada, pp. 521–530. https://doi.org/0.1145/2556288.2556975
+
+Lanchester, J., 2016. When Bitcoin Grows Up. London Review of Books 38, 3–12. [https://www.lrb.co.uk/v38/n08/john-lanchester/when-bitcoin-grows-up](https://www.lrb.co.uk/v38/n08/john-lanchester/when-bitcoin-grows-up)
+
+Maurer, B., 2015. How Would You Like to Pay? How Technology Is Changing the Future of Money. Duke University Press.
+
+Stallman, R., 2018. A radical proposal to keep your personal data safe. The Guardian. https://www.theguardian.com/commentisfree/2018/apr/03/facebook-abusing-data-law-privacy-big-tech-surveillance
+
+Valeri, L., 2014. Sumerian Currency. https://lauravaleri.com/2014/12/18/sumerian-currency/
+
+Vines, J., Blythe, M., Dunphy, P., Monk, A., 2011. Eighty Something: Banking for the older old, in: Proceedings of the 25th BCS Conference on Human-Computer Interaction. Presented at BCS-HCI 2011, BCS Learning & Development Ltd. Swindon, UK, Newcastle-upon-Tyne, United Kingdom, pp. 64–73.
+
+Vines, J., Blythe, M., Dunphy, P., Vlachokyriakos, V., Teece, I., Monk, A., Olivier, P., 2012. Cheque Mates: Participatory Design of Digital Payments with Eighty Somethings, in: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. Presented at CHI 2012, ACM New York, NY, USA, Austin, Texas, USA, pp. 1189–1198. https://doi.org/10.1145/2207676.2208569
+
+Vines, J., Blythe, M., Lindsay, S., Dunphy, P., Monk, A., Olivier, P., 2012. Questionable Concepts: Critique as a Resource for Designing with Eighty Somethings, in: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. Presented at CHI 2012, ACM New York, NY, USA, Austin, Texas, USA, pp. 1169–1178. https://doi.org/10.1145/2207676.2208567
