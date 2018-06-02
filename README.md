@@ -7,7 +7,7 @@ This was my presentation for the Arts, Design and Social Sciences Postgraduate R
 
 Hello all. I am Belén, and my PhD, which is supervised by Professors Vines and Holmquist, is about three things: participatory design, older adults, and digital financial services, which is just a fancy way of saying that my PhD is about money.
 
-I don’t know about you, but I cannot design what I don’t understand. So I’ve spent the last few months trying to understand what the is money, and I am going to tell you some of the things I've learnt so far.
+I don’t know about you, but I cannot design what I don’t understand. So I’ve spent the last few months trying to understand what is money, and I am going to tell you some of the things I've learnt so far.
 
 If you ask an economist what is money, apparently they will tell you that money is three things. First, money is a unit of account, which means that is a measure of value, but also that money is not just coins and notes. Money is an account, a data record, information stored on a ledger. And in fact, the bulk of money in circulation, at least in the UK, is made not of cash, but of these information records.
 
